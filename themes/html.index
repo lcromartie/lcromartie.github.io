@@ -1,0 +1,24 @@
+!DOCTYPE html>
+<html lang= eng>
+        <head>
+        <meta charset="utf-8">
+        <title>themes</title>
+        <meta name="viewport"
+           content="width=device-width,
+           initial-scale=1, 
+           shrink-to-fit=no"
+         />
+        
+        </head>
+        <h1>Champion</h1>
+
+        <p>The word "champion" is defined as a person who has defeated or surpassed all rivals in competition, synonymous with winner.
+            Studying the field of information systems and technology presents quite a challenge. 
+        I dont intend to be a quitter or give up, rather come out the other side of this a champion.</p>
+
+        <img src="champion.jpg" width="600" height="450"/>
+        
+        
+       
+        
+ </html>
