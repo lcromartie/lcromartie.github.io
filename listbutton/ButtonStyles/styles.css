@@ -1,0 +1,42 @@
+button {
+    background-color:blue;
+    border: 24px black;
+    color:greenyellow;
+    text-align: center;
+    font: size 24px;
+}
+
+header {
+    background-color: dimgrey;
+    color: chartreuse;
+    text-align: center;
+}
+
+header p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 110%;
+}
+
+h1.New-Point {
+    text-align: center;
+}
+
+.byline {
+    font-style: italic;
+    font-size: 80%;
+}
+
+main {
+    background-color: dimgrey;
+    color: blue;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: chartreuse;
+    color: blue;
+}
+
+
