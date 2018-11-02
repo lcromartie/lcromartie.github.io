@@ -5,3 +5,20 @@ button {
     text-align: center;
     font: size 24px;
     }
+
+    header{
+        background-color: orangered;
+
+    }
+
+    nav{
+       background-color: yellow;
+    }
+
+    main{
+      background-color: darkorange
+    }
+
+    footer{
+      background-color: orangered;
+    }
