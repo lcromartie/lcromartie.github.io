@@ -1,0 +1,35 @@
+
+
+header {
+    background-color:red;
+    text-align: center; 
+
+}
+
+header p {
+    font-weight: bold;
+    color: blue;
+}
+
+figure.left {
+    float: left;
+    
+}
+
+.byline {
+    font-style: italic;
+    font-size: 80%;
+    font-family: inherit
+}
+
+
+main {
+background-color: blue;
+    
+}
+
+footer {
+    text-align: center;
+    background-color: black
+    
+}
