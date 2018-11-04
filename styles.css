@@ -1,22 +1,22 @@
 body {
-    background-color:tan;
+    background-color: darkgrey;
 }
 
 header {
-    background-color:crimson;
+    background-color: blanchedalmond;
+    font-family: cursive monospace;
 }
-
 nav {
-
+    background-color: goldenrod;
 }
 
 main {
-
+background-attachment: fixed;
 }
 
 p.byline{
     font-style: italic;
 }
 footer {
-
+background-color: burlywood
 }
