@@ -13,8 +13,8 @@ function loader() {
 
 
     }
-    //console.log(functionObject.getName());
-    //funtionButton.onclick = functionObject;
+    console.log(functionObject.getName());
+    funtionButton.onclick = functionObject;
 }
  
 window.onload = loader;
