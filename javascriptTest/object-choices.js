@@ -1,3 +1,11 @@
+function loader() {
+    const getNamesButton = document.getElementById('get-name');
+
+    getNamesButton.onclick = function() {
+        return this.firstName
+    }
+}
+
 const myObject = {
     firstName: 'fred',
     lastName: 'smith',
