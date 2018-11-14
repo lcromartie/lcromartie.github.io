@@ -9,4 +9,6 @@ const myObject = {
 myObject.middleName = 'barfoo';
 
 console.log(myObject.firstName);
-console.log(myObject)['firstName']);
+console.log(myObject['firstName']);
+console.log(myObject.getName());
+console.log(myObject.middleName);
