@@ -13,6 +13,8 @@ function loader() {
 
 
     }
+    console.log(functionObject.getName());
+    funtionButton.onclick = functionObject;
 }
  
 window.onload = loader;
@@ -37,11 +39,20 @@ console.log(myObject['firstName']);
 console.log(myObject.getName());
 console.log(myObject.middleName);
 
-const funtionObject = () => {
+function FunctionObject() {
+    const firstName = 'sue';
+    const lastName = 'jones';
+}
+
+const functionObject = () => {
     console.log('my function object');
 
     const getName = () => {
         return 'Function object';
+    }
+
+    functionObject.prototype.getFullName = () => {
+        return 'This is the full name';
     }
 
     console.log(getName());
