@@ -13,14 +13,14 @@ function loader() {
 
 
     }
-    console.log(functionObject.getName());
-    funtionButton.onclick = functionObject;
+    //console.log(functionObject.getName());
+    //funtionButton.onclick = functionObject;
 }
  
 window.onload = loader;
  
 //Key value pairs
-//Coma
+//Coma seperated list of key value pairs.
 const myObject = {
     firstName: 'fred',
     lastName: 'smith',
