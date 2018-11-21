@@ -1,8 +1,15 @@
 ## Welcome to GitHub Pages
 
-i pushed one successfully
+# Header
 
-working with charlie
+# Nav
+- https://lcromartie.github.io
+
+# Main
+
+# Footer
+
+
 
 
 You can use the [editor on GitHub](https://github.com/lcromartie/lcromartie.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
