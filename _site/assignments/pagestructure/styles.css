@@ -1,0 +1,40 @@
+
+
+header {
+    background-color:tan;
+    text-align: center; 
+    border: 8px solid darkgrey;
+
+}
+
+header p {
+    font-weight: bold;
+    color: tan;
+}
+
+figure.left {
+    float: left;
+    
+}
+
+.byline {
+    font-style: italic;
+    font-size: 80%;
+    font-family: inherit
+}
+
+
+main {
+background-color:tan;
+border: 8px solid darkgrey;
+font: 28px bold initial;
+
+    
+}
+
+footer {
+    text-align: center;
+    background-color: tan;
+    border: 8px solid darkgrey;
+    
+}
