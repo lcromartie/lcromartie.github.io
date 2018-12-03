@@ -1,0 +1,18 @@
+body {
+   background-color: aqua;
+}
+header {
+    border: 6px solid gray;
+}
+nav {
+   border-inline-start: center; 
+   font-display: inline;
+}
+main {
+    background-color: whitesmoke;
+    border-color: gray
+}
+footer {
+background-color: aqua;
+border: 6px solid gray;
+}
