@@ -2,12 +2,12 @@ body {
    background-color: aqua;
 }
 header {
-    border: 6px solid gray;
+    border: 2px black solid;
     text-align: center;
 }
 nav {
-   border-inline-start: center; 
-   text-align: center;
+   border: 2px black solid;
+   text-align: left;
 }
 main {
     background-color: whitesmoke;
@@ -15,5 +15,5 @@ main {
 }
 footer {
 background-color: aqua;
-border: 6px solid gray;
+border: 2px black solid;
 }
