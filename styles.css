@@ -3,10 +3,11 @@ body {
 }
 header {
     border: 6px solid gray;
+    text-align: center;
 }
 nav {
    border-inline-start: center; 
-   font-display: inline;
+   text-align: center;
 }
 main {
     background-color: whitesmoke;
