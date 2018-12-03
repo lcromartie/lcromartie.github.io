@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
-# Header
 
-# Nav
+
+
 - https://lcromartie.github.io
 
         
@@ -11,9 +11,9 @@
     
       
 
-# Main
 
-# Footer
+
+
 
 
 
