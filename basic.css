@@ -1,0 +1,19 @@
+body {
+    background-color: limegreen;
+ }
+ header {
+     border: 6px solid gray;
+ }
+ nav {
+    border-inline-start: center; 
+    font-display: inline;
+ }
+ main {
+     background-color: grey;
+     border-color:blue
+ }
+ footer {
+ background-color: gray;
+ border: 6px solid limegreen;
+ }
+ 
