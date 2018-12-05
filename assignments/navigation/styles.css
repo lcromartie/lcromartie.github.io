@@ -1,0 +1,75 @@
+button {
+    background-color:black;
+    border: 24px black;
+    color:red;
+    text-align: center;
+    font: size 24px;
+}
+
+header {
+    background-color: black;
+    color: red;
+    text-align: center;
+}
+
+header p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 110%;
+}
+
+h1.Condition {
+    text-align: center;
+}
+
+.byline {
+    font-style: italic;
+    font-size: 80%;
+}
+
+main {
+    background-color:goldenrod;
+    color: crimson;
+    text-align: center;
+}
+
+nav{
+    background-color: dimgrey;
+    border:1px goldenrod solid;
+    padding: 8px;
+    margin:-1px 0px 0px 0px;
+        
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color:red;
+    
+}
+
+nav li {
+    display: inline;
+    padding: 8px;  
+    color:red;  
+}
+
+#task{
+    color:black;
+}
+
+#condition{
+    color:black;
+}
+
+#standard{
+    color:black;
+}
+footer {
+    text-align: center;
+    background-color:black;
+    color:red;
+}
+
+
