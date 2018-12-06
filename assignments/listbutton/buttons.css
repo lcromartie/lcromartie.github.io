@@ -1,0 +1,97 @@
+aside{
+    background-color: bisque;
+    border: black 1px solid;
+    border-radius: 8px;
+    float: right;
+    font-style: italic;
+    margin-right: 5px;
+    padding: 8px;
+    width: 33%;          
+}
+button {
+    background-color:green;
+    border: 12px whitesmoke;
+    color:black;
+    text-align: center;
+    font: size 16px;
+}
+button.test-button{
+    padding:25px;
+    border: 15px;
+    border-color:yellow;
+    border-style: solid;  
+
+}
+
+button.test-button:hover{
+color:red;
+}
+
+button.add-to-list{
+    padding:25px;
+    border:15px;
+    border-color:yellow;
+    border-style:solid;
+    border-radius: 35px;
+}
+
+button.margin{
+    padding:25px;
+    border:15px;
+    border-color:yellow;
+    border-style: solid;
+
+}
+
+
+
+header {
+    background-color: brown;
+
+}
+
+header p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 110%;
+}
+
+h1.New-Point {
+    text-align: center;
+}
+
+.byline {
+    font-style: italic;
+    font-size: 80%;
+}
+
+
+main {
+background-color: orangered;
+    
+}
+
+footer {
+    text-align: center;
+    background-color: orangered;
+    
+}
+
+nav {        
+    background-color: aliceblue;
+    border: 1px green solid;
+    padding: 8px;
+    margin: -1px 0px 0px 0px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+nav li {
+    display: inline;
+    padding: 8px;    
+}
