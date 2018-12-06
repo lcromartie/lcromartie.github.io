@@ -17,3 +17,22 @@ footer {
 background-color: aqua;
 border: 2px black solid;
 }
+
+figure.rotate {
+    transform: rotate(0.25turn);
+}
+.rotate-top {
+    transform: rotate(0.0turn);
+}
+
+.rotate-right {
+    transform: rotate(0.25turn);
+}    
+   
+.rotate-down {
+    transform: rotate(0.5turn);
+}            
+
+.rotate-left {
+    transform: rotate(0.75turn);
+}
